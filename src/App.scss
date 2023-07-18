@@ -1,0 +1,10 @@
+  @import url('https://fonts.googleapis.com/css2?family=Signika+Negative&display=swap');
+  $fontFamily: 'Signika Negative', sans-serif;
+  
+  body {
+background-color: aquamarine;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: $fontFamily;
+  }
